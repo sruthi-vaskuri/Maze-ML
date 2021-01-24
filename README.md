@@ -14,7 +14,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [The existing model](#the-exising-model)
+* [existing model](#exising-model)
 * [What included in this..?](#What included in this..?)
 * [What we did...!](#What we did...!)
 * [Output Demo Screenshot](#Output Demo Screenshot)
@@ -35,7 +35,7 @@
 To run this Game, install it locally using npm:
 
 
-## The existing model
+## existing model
  - The existing system to play Maze game is with Buttons. (i.e Arrow keys)
    
 ### What included in this..? 
