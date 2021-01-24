@@ -24,10 +24,10 @@
  - By this model we can play game with our voice. 
       
 ### What we did...!
-  - we collected the Maze game Code From the Github. and we made some basic modifications. i.e some basic html and css changes.
+  - we collected the Maze game Code From the Github. and we made some basic modifications. i.e some styling and js code.
   - The youtube link for our resource is : https://youtu.be/nHjqkLV_Tp0
   - Then we trained our model with Techable Machine i.e https://teachablemachine.withgoogle.com/
-  - In techable Machine We trained our voice and we uploaded in the cloude 
+  - In techable Machine We trained our voice and we uploaded in the cloud 
   - Then we linked the code with Game
  
  
