@@ -17,7 +17,7 @@
 - Techable Machine Auto-generated code
 	
 
-## existingmodel
+## Existing model
  - The existing system to play Maze game is with Buttons. (i.e Arrow keys)
    
 ### What included in this..? 
@@ -39,7 +39,7 @@
 https://mazegame.sruthi5f1.repl.co
 
 ## YouTube Link
-[![youtube link](https://img.youtube.com/vi/xlW392nedMk/0.jpg)](https://youtu.be/xlW392nedMk)
+[![ML2_week1](https://img.youtube.com/vi/xlW392nedMk/0.jpg)](https://www.youtube.com/watch?v=xlW392nedMk)
 
 ## Resourses :
 - Game : https://youtu.be/nHjqkLV_Tp0
