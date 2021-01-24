@@ -14,7 +14,10 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [The existing model](#technologies)
+* [What included in this..?](#technologies)
+* [What we did...!](#technologies)
+* [Output Demo Screenshot](#technologies)
 
 ## General info
   - we collected the Maze game Code From the Github. and we made some basic modifications. i.e some basic html and css changes.
@@ -32,7 +35,7 @@
 To run this Game, install it locally using npm:
 
 
-### The existing model :
+### The existing model
  - The existing system to play Maze game is with Buttons. (i.e Arrow keys)
    
 ### What included in this..? 
