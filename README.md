@@ -1,5 +1,5 @@
 # Maze-ML
 
 ## Team mates 
-  Sruthi vaskuri
-  Shaik kalesha
+  1) Sruthi vaskuri 
+  2) Shaik kalesha
