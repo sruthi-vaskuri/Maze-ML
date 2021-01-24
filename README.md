@@ -1,5 +1,13 @@
 # Maze-ML
 
-## Team mates 
-  1) Sruthi vaskuri 
-  2) Shaik kalesha
+## CONTRIBUTORS:
+- Sruthi vaskuri 
+- Shaik kalesha
+  
+## Play Maze With Audio
+-
+ 
+
+
+  
+
