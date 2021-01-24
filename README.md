@@ -12,7 +12,7 @@
 
 
 ## Table of contents
-* [General infor](#general-info)
+* [General info](#general-infor)
 * [Technologies](#technologies)
 * [existing model](#exising-model)
 * [What included in this..?](#What included in this..?)
