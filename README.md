@@ -3,8 +3,9 @@
 ## CONTRIBUTORS:
 - Sruthi vaskuri 
 - Shaik kalesha
-  
-## Play Maze With Audio
+
+## Introduction 
+#### Play Maze With Audio
 - This is a maze game with Audio.
 - We can play maze game with Audio. (i.e, by saying left,right,up and down)
 ### The existing model :
