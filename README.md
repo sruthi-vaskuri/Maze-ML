@@ -8,7 +8,7 @@
 - This is a maze game with Audio.
 - We can play maze game with Audio. (i.e, by saying left,right,up and down)
 ### The existing model :
- - we can play maze ame with buttons i.e Arrow keys
+ - we can play maze Game with buttons i.e Arrow keys
    
 ### What included in this..? 
  - By this model we can play game with our voice. 
