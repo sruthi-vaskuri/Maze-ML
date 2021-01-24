@@ -22,6 +22,5 @@
  
  
 ## Output Demo Screenshot
-
-![Screenshot 1]()
-![Screenshot 1]()
+![Screenshot 1](https://raw.githubusercontent.com/sruthi-vaskuri/Maze-ML/main/ml1-2.PNG)
+![Screenshot 1](https://raw.githubusercontent.com/sruthi-vaskuri/Maze-ML/main/ml1-2.PNG)
