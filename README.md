@@ -8,8 +8,32 @@
 #### Play Maze With Audio
 - This is a maze game with Audio.
 - We can play maze game with Audio. (i.e, by saying left,right,up and down)
+
+
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+## General info
+  - we collected the Maze game Code From the Github. and we made some basic modifications. i.e some basic html and css changes.
+  - The youtube link for our resource is : https://youtu.be/nHjqkLV_Tp0
+  - Then we trained our model with Techable Machine i.e https://teachablemachine.withgoogle.com/
+  - In techable Machine We trained our voice and we uploaded in the cloude 
+  - Then we linked the code with Game
+	
+## Technologies
+- Java Script
+- HTML, CSS
+- Techable Machine Auto-generated code
+	
+## Setup
+To run this Game, install it locally using npm:
+
+
 ### The existing model :
- - we can play maze Game with buttons i.e Arrow keys
+ - The existing system to play Maze game is with Buttons. (i.e Arrow keys)
    
 ### What included in this..? 
  - By this model we can play game with our voice. 
