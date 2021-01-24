@@ -23,7 +23,7 @@
  
 ## Output Demo Screenshot
 ![Screenshot 1](https://raw.githubusercontent.com/sruthi-vaskuri/Maze-ML/main/ml1-2.PNG)
-![Screenshot 1](https://raw.githubusercontent.com/sruthi-vaskuri/Maze-ML/main/ml1-2.PNG)
+![Screenshot 1](https://raw.githubusercontent.com/sruthi-vaskuri/Maze-ML/main/ml1-1.PNG)
 
 ## Play Maze Game With Audio Here ✌✌
 https://mazegame.sruthi5f1.repl.co
