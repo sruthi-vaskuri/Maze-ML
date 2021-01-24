@@ -17,7 +17,7 @@
 - Techable Machine Auto-generated code
 	
 
-## existingmodel
+## Existing model
  - The existing system to play Maze game is with Buttons. (i.e Arrow keys)
    
 ### What included in this..? 
