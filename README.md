@@ -27,3 +27,12 @@
 
 ## Play Maze Game With Audio Here ✌✌
 https://mazegame.sruthi5f1.repl.co
+
+## YouTube Link
+
+
+## Resourses :
+Game : https://youtu.be/nHjqkLV_Tp0
+Techable Machine : https://teachablemachine.withgoogle.com/
+
+
