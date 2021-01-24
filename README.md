@@ -16,9 +16,6 @@
 - HTML, CSS
 - Techable Machine Auto-generated code
 	
-## Setup
-To run this Game, install it locally using npm:
-
 
 ## existingmodel
  - The existing system to play Maze game is with Buttons. (i.e Arrow keys)
