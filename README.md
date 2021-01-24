@@ -32,7 +32,7 @@ https://mazegame.sruthi5f1.repl.co
 
 
 ## Resourses :
-Game : https://youtu.be/nHjqkLV_Tp0
-Techable Machine : https://teachablemachine.withgoogle.com/
+- Game : https://youtu.be/nHjqkLV_Tp0
+- Techable Machine : https://teachablemachine.withgoogle.com/
 
 
