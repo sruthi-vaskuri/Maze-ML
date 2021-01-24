@@ -14,7 +14,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [existing model](#exisingmodel)
+* [existingmodel](#Exisingmodel)
 * [What included in this..?](#What included in this..?)
 * [What we did...!](#What we did...!)
 * [Output Demo Screenshot](#Output Demo Screenshot)
