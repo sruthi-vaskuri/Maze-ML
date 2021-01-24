@@ -14,10 +14,10 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [The existing model](#technologies)
-* [What included in this..?](#technologies)
-* [What we did...!](#technologies)
-* [Output Demo Screenshot](#technologies)
+* [The existing model](#The existing model)
+* [What included in this..?](#What included in this..?)
+* [What we did...!](#What we did...!)
+* [Output Demo Screenshot](#Output Demo Screenshot)
 
 ## General info
   - we collected the Maze game Code From the Github. and we made some basic modifications. i.e some basic html and css changes.
