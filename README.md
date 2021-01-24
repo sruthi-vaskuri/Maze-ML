@@ -12,14 +12,14 @@
 
 
 ## Table of contents
-* [General info](#general-infor)
+* [General info](#general-info)
 * [Technologies](#technologies)
-* [existing model](#exising-model)
+* [existing model](#exisingmodel)
 * [What included in this..?](#What included in this..?)
 * [What we did...!](#What we did...!)
 * [Output Demo Screenshot](#Output Demo Screenshot)
 
-## General infor
+## General info
   - we collected the Maze game Code From the Github. and we made some basic modifications. i.e some basic html and css changes.
   - The youtube link for our resource is : https://youtu.be/nHjqkLV_Tp0
   - Then we trained our model with Techable Machine i.e https://teachablemachine.withgoogle.com/
@@ -35,7 +35,7 @@
 To run this Game, install it locally using npm:
 
 
-## existing model
+## existingmodel
  - The existing system to play Maze game is with Buttons. (i.e Arrow keys)
    
 ### What included in this..? 
