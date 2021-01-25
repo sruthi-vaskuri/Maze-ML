@@ -1,8 +1,8 @@
 # Maze-ML
 
 ## CONTRIBUTORS:
-- Sruthi vaskuri 
-- Shaik kalesha
+- Sruthi vaskuri (18pa1a04f1)
+- Shaik kalesha (18pa1a05e7)
 
 ## Introduction 
 ###### Play Maze With Audio
